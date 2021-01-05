@@ -341,6 +341,9 @@
     "symfony/dotenv": {
         "version": "v4.1.11"
     },
+    "symfony/error-handler": {
+        "version": "v4.4.18"
+    },
     "symfony/event-dispatcher": {
         "version": "v4.1.11"
     },
@@ -373,6 +376,9 @@
             "version": "3.3",
             "ref": "af951c413e84511daefa4ddb3eb8166108a30b6c"
         }
+    },
+    "symfony/http-client-contracts": {
+        "version": "v2.3.1"
     },
     "symfony/http-foundation": {
         "version": "v4.1.11"
@@ -469,6 +475,9 @@
     },
     "symfony/polyfill-php73": {
         "version": "v1.12.0"
+    },
+    "symfony/polyfill-php80": {
+        "version": "v1.20.0"
     },
     "symfony/process": {
         "version": "v4.1.11"
